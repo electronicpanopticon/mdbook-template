@@ -10,5 +10,5 @@
 2. Create a repo from the command line:
 
 ```
-❯ gh repo create my-repo-name --template https://github.com/electronicpanopticon/mdbook-template.git
+gh repo create my-repo-name --template https://github.com/electronicpanopticon/mdbook-template.git
 ```
